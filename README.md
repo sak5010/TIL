@@ -11,11 +11,11 @@
 3. 문체는 간략하게 쓴다.
 4. 참조는 반드시 명시한다.
 
+---
+
 <br><br>
 
 ## HTML
-
----
 
 - First Item
   - [Indented Item](https://github.com/sak5010/TIL)
@@ -25,8 +25,6 @@
 
 ## CSS
 
----
-
 - First Item
   - [Indented Item](https://github.com/sak5010/TIL)
   - [Indented Item](https://github.com/sak5010/TIL)
@@ -34,8 +32,6 @@
   <br><br>
 
 ## JavaScript
-
----
 
 - First Item
   - [Indented Item](https://github.com/sak5010/TIL)
@@ -45,8 +41,6 @@
 
 ## Book
 
----
-
 - First Item
   - [Indented Item](https://github.com/sak5010/TIL)
   - [Indented Item](https://github.com/sak5010/TIL)
@@ -55,8 +49,6 @@
   <br><br>
 
 ## PS
-
----
 
 - Dynamic Programming
   - [Indented Item](https://github.com/sak5010/TIL)
