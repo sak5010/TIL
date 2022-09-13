@@ -39,7 +39,7 @@
 - [Second Item](https://github.com/sak5010/TIL)
   <br><br>
 
-## Book
+## 책
 
 - First Item
   - [Indented Item](https://github.com/sak5010/TIL)
@@ -54,3 +54,10 @@
   - [Indented Item](https://github.com/sak5010/TIL)
   - [Indented Item](https://github.com/sak5010/TIL)
 - [DFS](https://github.com/sak5010/TIL)
+
+## 정규표현식
+
+- \b와 \B 구분자. <br>
+  \b는 word boundary이고 \B는 nott word boundary이다. <br>
+  /\bo./g: Raindrops **on** roses, and whiskers **on** kittens. <br>
+  /\Bo./g: Raindr**op**s on r**os**es, and whiskers on kittens.
