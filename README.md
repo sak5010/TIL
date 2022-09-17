@@ -77,3 +77,7 @@
 ## Git
 
 - [명령어](/Git/git.md)
+
+## Bug Fix
+
+- [버그](/Bug/bug.md)
