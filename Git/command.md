@@ -1,13 +1,11 @@
-## Git 명령어
-
----
+# Git 명령어
 
 ### Git 초기 유저 설정
 
 ```console
 $ git config -global user.name "username"
 $ git config -global user.email "username@io.com"
-$ git config -list # 설정 확인 출력
+$ git config -list # 설정 확인 출력s
 ```
 
 <br>

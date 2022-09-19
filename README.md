@@ -33,10 +33,7 @@
 
 ## JavaScript
 
-- First Item
-  - [Indented Item](https://github.com/sak5010/TIL)
-  - [Indented Item](https://github.com/sak5010/TIL)
-- [Second Item](https://github.com/sak5010/TIL)
+- [문법](/Javascript/Grammer.md);
   <br><br>
 
 ## 책
