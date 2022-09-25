@@ -55,6 +55,20 @@ const fruits = foods.filter((currentFood) => currentFood !== "🌽");
 
 콜백함수 내에서 true를 반환하면 새 배열로 이동하고 false를 반환하면 새 배열에서 배제된다.
 
-<br><br>
+<br>
 
 etc... `.sort()`, `.reverse()`, `.reduce()`, `.flat()`, ...
+
+<br><br>
+
+## String Object
+
+<br>
+
+### string.charAt(pos) vs string[pos]
+
+결론적으로, `.charAt(pos)`를 사용하는것이 권장된다. 그 이유는 다음과 같다.
+
+- bracket 방식은 array나 object에도 쓰이기 때문에 구분하는데 가독성이 떨어진다.
+- 두 방식 모두 string의 일부분을 변경할 수 없는데, `.charAt(pos)`는 syntax error를 발생시키는데 `string[pos]`는 에러를 발생시키지 않아 혼란을 야기한다.
+- 범위를 벗어나서 접근하면 `.charAt(pos)`는 빈 문자열 `''`을 반환하고, `string[pos]`는 `undefined`를 반환한다.
