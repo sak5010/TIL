@@ -33,7 +33,8 @@
 
 ## JavaScript
 
-- [문법](/Javascript/Grammer.md);
+- [문법](/Javascript/grammer.md);
+- [DOM](/JavaScript/dom.md);
   <br><br>
 
 ## 책
@@ -55,7 +56,7 @@
 
 ## 마크다운
 
-- [문법](/Markdown/Grammer.md)
+- [문법](/Markdown/grammer.md)
 
 <br><br>
 
