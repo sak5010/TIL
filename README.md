@@ -38,6 +38,9 @@
 - [Object](/JavaScript/object.md)
 - [주석](/JavaScript/jsDoc.js)
 - [ES Modules](/JavaScript/ESModules.md)
+- Closure
+
+  - [Closure vs Class](/JavaScript/Closure/closureVSclass.md);
 
   <br><br>
 
