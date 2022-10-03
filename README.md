@@ -40,7 +40,11 @@
 - [ES Modules](/JavaScript/ESModules.md)
 - Closure
 
-  - [Closure vs Class](/JavaScript/Closure/closureVSclass.md);
+  - [Closure vs Class](/JavaScript/Closure/closureVSclass.md)
+
+- Async
+
+  - [Promise](/JavaScript/Async/promise.js)
 
   <br><br>
 
