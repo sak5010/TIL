@@ -45,6 +45,8 @@
 - Async
 
   - [Promise](/JavaScript/Async/promise.js)
+  - [Debouncing]
+  - [Throttling]
 
   <br><br>
 
