@@ -52,7 +52,7 @@
 
 ## 책
 
-- First Item
+- 자바스크립트
   - [Indented Item](https://github.com/sak5010/TIL)
   - [Indented Item](https://github.com/sak5010/TIL)
 - [Second Item](https://github.com/sak5010/TIL)
