@@ -64,7 +64,7 @@ $ git diff # commit된 파일 중 변경 사항 비교
 
 `-p 또는 --patch`: 각 commit의 수정 결과를 보여주는 diff와 같은 역할<br>
 `-n`: 상위 n개의 commit만 보여줌<br>
-`git log --pretty`: 각 commit을 한 줄로 출력
+`git log --pretty`: 각 commit을 한 줄로 출력<br>
 `git log --graph`: commit간의 연결 관계를 아스키 그래프로 출력
 
 <br>
