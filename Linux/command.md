@@ -97,7 +97,7 @@ test.txt파일이 없을 때는 생성하고 있으면 내용을 덮어쓴다.
 <br><br>
 
 ```console
-$ echo abcde > test.txt
+$ echo abcde >> test.txt
 ```
 
 test.txt파일이 없을 때는 생성하고 있으면 내용을 추가한다.
