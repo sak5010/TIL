@@ -38,7 +38,7 @@ $ git commit -m "commit message"
 ### 저장소 반영 내용 변경
 
 ```console
-$ git commit --amend =m "edit message"
+$ git commit --amend -m "edit message"
 ```
 
 <br>
